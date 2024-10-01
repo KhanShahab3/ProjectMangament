@@ -8,7 +8,7 @@ namespace ProjectMangament.Services
         Task<Teams> GetTeamsById(int id);
         Task<int>DeleteTeam(int id);
         Task<int> AddTeam(Teams team);
-        Task<int> UpdateTeam(Teams team);
+        Task<Teams> UpdateTeam(Teams team);
 
     }
 }

@@ -135,3 +135,4 @@ D:\ProjectMangamentSystem\ProjectMangament\ProjectMangament\obj\Debug\net8.0\ref
 D:\ProjectMangamentSystem\ProjectMangament\ProjectMangament\obj\Debug\net8.0\ProjectMangament.pdb
 D:\ProjectMangamentSystem\ProjectMangament\ProjectMangament\obj\Debug\net8.0\ProjectMangament.genruntimeconfig.cache
 D:\ProjectMangamentSystem\ProjectMangament\ProjectMangament\obj\Debug\net8.0\ref\ProjectMangament.dll
+D:\ProjectMangamentSystem\ProjectMangament\ProjectMangament\obj\Debug\net8.0\ProjectMangament.sourcelink.json

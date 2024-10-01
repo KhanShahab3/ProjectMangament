@@ -12,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IProjectService, ProjectService>();   
+builder.Services.AddTransient<ITeamService,TeamService>();
 
 var app = builder.Build();
 
